@@ -96,8 +96,3 @@ Real-world Azure architectures using Terraform with focus on networking, securit
 
 ---
 
-<h2 align="left">⚡ Fun Fact</h2>
-
-<p align="left">
-I break things in Azure and fix them—that’s how I learn 😄
-</p>
