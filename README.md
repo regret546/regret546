@@ -14,8 +14,6 @@
 ☁️ Cloud Engineer turning ideas into real Azure infrastructure<br>
 🛠️ Terraform enthusiast building scalable and secure cloud environments<br>
 🔐 Focused on networking, access, and cost optimization<br>
-🚀 Working on real-world projects like hub-and-spoke with Azure Bastion<br>
-💡 I learn by breaking things—and fixing them
 </p>
 
 ---
