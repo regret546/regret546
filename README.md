@@ -55,17 +55,18 @@
 🔹 <b>AzureBlueprints</b><br>
 Real-world Azure architectures using Terraform with focus on networking, security, and cost-aware design.<br><br>
 
-✔️ Hub-and-spoke architecture<br>
-✔️ Centralized Azure Bastion (no public IPs)<br>
-✔️ Dynamic VNet peering<br>
-✔️ Designed for scalability and security<br><br>
-
 👉 https://github.com/regret546/AzureBlueprints
 </p>
 
 ---
 
 <h2 align="left">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://media.tenor.com/G78MfVfnwpYAAAAj/desktop-computer-new-computers.gif" width="250" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats-gules-chi-77.vercel.app/api?username=regret546&show_icons=true&theme=tokyonight" height="150" />
