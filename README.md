@@ -89,7 +89,7 @@ Real-world Azure architectures using Terraform with focus on networking, securit
 <h2 align="left">📫 Connect With Me</h2>
 
 <p align="left">
-📧 your-email@gmail.com<br>
+📧 jkduran1998@gmail.com<br>
 💼 https://linkedin.com/in/jkduran1998<br>
 💻 https://github.com/regret546
 </p>
