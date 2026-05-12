@@ -49,8 +49,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/regret546/regret546/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/regret546/regret546/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=regret546&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regret546&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ###
