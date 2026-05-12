@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm John Kenneth Duran</h1>
+<h1 align="left">Hi 👋, I'm John </h1>
 
 I'm a Cloud Engineer focused on building secure, scalable, and cost-efficient solutions in the cloud.
 
