@@ -1,10 +1,8 @@
 <h1 align="left">Hi 👋, I'm John Kenneth Duran</h1>
 
-<p align="left">
-☁️ Cloud Engineer focused on building secure, scalable, and cost-efficient solutions in Microsoft Azure.<br>
-🛠️ I work with Terraform to automate infrastructure and simplify deployments.<br>
-🚀 Currently building real-world cloud architectures and documenting my journey.
-</p>
+I'm a Cloud Engineer focused on building secure, scalable, and cost-efficient solutions in the cloud.
+
+I started my journey in system operations and moved into cloud engineering, where I now work with Azure and Infrastructure as Code.
 
 ---
 
