@@ -78,7 +78,6 @@ Real-world Azure architectures using Terraform with focus on networking, securit
 <h2 align="left">🎯 Goals</h2>
 
 <p align="left">
-📌 Get Azure certifications (AZ-104 / AZ-305)<br>
 📌 Build more real-world cloud projects<br>
 📌 Improve Terraform module design<br>
 📌 Contribute to cloud-related open-source
