@@ -1,56 +1,102 @@
 <h1 align="left">Hi 👋, I'm John Kenneth Duran</h1>
 
-###
+<p align="left">
+☁️ Cloud Engineer focused on building secure, scalable, and cost-efficient solutions in Microsoft Azure.<br>
+🛠️ I work with Terraform to automate infrastructure and simplify deployments.<br>
+🚀 Currently building real-world cloud architectures and documenting my journey.
+</p>
 
-<p align="left">I'm a Cloud Engineer focused on building secure, scalable, and cost-efficient solutions in the cloud. I started my journey in system operations and moved into cloud engineering, where I now work with Azure and Infrastructure as Code.</p>
+---
 
-###
+<h2 align="left">👨‍💻 About Me</h2>
 
-<h2 align="left">About me</h2>
+<p align="left">
+☁️ Cloud Engineer turning ideas into real Azure infrastructure<br>
+🛠️ Terraform enthusiast building scalable and secure cloud environments<br>
+🔐 Focused on networking, access, and cost optimization<br>
+🚀 Working on real-world projects like hub-and-spoke with Azure Bastion<br>
+💡 I learn by breaking things—and fixing them
+</p>
 
-###
+---
 
-<p align="left">☁️ Cloud Engineer turning ideas into real Azure infrastructure<br>🛠️ Terraform enthusiast building scalable and secure cloud environments<br>🔐 Focused on networking, access, and cost optimization<br>🚀 Documenting my journey through real-world projects</p>
+<h2 align="left">🛠 Tech Stack</h2>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
+<h3 align="left">☁️ Cloud & DevOps</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" />
 </div>
 
-###
+<h3 align="left">💻 Backend & Scripting</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+</div>
+
+<h3 align="left">🎨 Frontend (Side Skills)</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+</div>
+
+---
+
+<h2 align="left">📂 Featured Project</h2>
+
+<p align="left">
+🔹 <b>AzureBlueprints</b><br>
+Real-world Azure architectures using Terraform with focus on networking, security, and cost-aware design.<br><br>
+
+✔️ Hub-and-spoke architecture<br>
+✔️ Centralized Azure Bastion (no public IPs)<br>
+✔️ Dynamic VNet peering<br>
+✔️ Designed for scalability and security<br><br>
+
+👉 https://github.com/regret546/AzureBlueprints
+</p>
+
+---
+
+<h2 align="left">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=regret546&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regret546&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=regret546&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regret546&layout=compact&theme=tokyonight&cache_seconds=1800" height="150" />
 </div>
 
-###
+---
+
+<h2 align="left">🎯 Goals</h2>
+
+<p align="left">
+📌 Get Azure certifications (AZ-104 / AZ-305)<br>
+📌 Build more real-world cloud projects<br>
+📌 Improve Terraform module design<br>
+📌 Contribute to cloud-related open-source
+</p>
+
+---
+
+<h2 align="left">📫 Connect With Me</h2>
+
+<p align="left">
+📧 your-email@gmail.com<br>
+💼 https://linkedin.com/in/jkduran1998<br>
+💻 https://github.com/regret546
+</p>
+
+---
+
+<h2 align="left">⚡ Fun Fact</h2>
+
+<p align="left">
+I break things in Azure and fix them—that’s how I learn 😄
+</p>
