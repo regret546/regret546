@@ -68,8 +68,8 @@ Real-world Azure architectures using Terraform with focus on networking, securit
 <h2 align="left">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=regret546&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regret546&layout=compact&theme=tokyonight&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats-gules-chi-77.vercel.app/api?username=regret546&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-gules-chi-77.vercel.app/api/top-langs/?username=regret546&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ---
